@@ -6,6 +6,8 @@ sidebar_position: 1
 
 ![Logo SliDesk](./logo.png "Logo SliDesk")
 
+A contraction of the words "Slide" and "Desk", this open-source project aims to be a tool for both slide creation and presentation at conferences.
+
 Write your talk/presentation in a simplified language (SliDeskFormat), generate it and visualize it in Web.
 
 SliDesk is a new talk engine like RevealJS developped with [Bun](https://bun.sh).
