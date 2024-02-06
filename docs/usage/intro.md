@@ -11,7 +11,7 @@ slidesk -h
 
 
  ____(•)<
-(SliDesk) v 2.4.0a
+(SliDesk) v 2.4.0
 
 Usage: slidesk [options] [command] [talk]
 

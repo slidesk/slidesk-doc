@@ -12,7 +12,7 @@ In your terminal, when the presentation is active, you can navigate in your slid
 
 ```sh
  ____(•)-
-(SliDesk) v 2.4.0a
+(SliDesk) v 2.4.0
 
 Take the control of your presentation direct from here.
 

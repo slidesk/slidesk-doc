@@ -23,3 +23,5 @@ This syntax in your `.sdf` defines a checkpoint. In this example, when your curr
 ```
 
 This syntax allow to display a new clock which the time you want. Here, a 2 minutes clock will be shown. After the time specified, this clock will have a red background, to warn you you reach the limits.
+
+![timers](./img/timers.png)
