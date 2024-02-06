@@ -1,2 +1,6 @@
-- `addWS`: a `.mjs` file will be imported on Server launch
-- `addRoutes`: a `.mjs` file will be imported on Server launch
+# How to write a Back plugin ?
+
+There is two kind of back plugins.
+
+- [HTTP](./http)
+- [WebSocket](./ws)
