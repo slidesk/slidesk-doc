@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "SliDesk",
-  tagline: "A speaker compangnon",
+  tagline: "A speaker companion",
   favicon: "img/slidesk.svg",
 
   // Set the production url of your site here
