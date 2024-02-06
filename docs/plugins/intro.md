@@ -34,3 +34,5 @@ If you want to use one of the "core" plugins, available in this repository, you 
 ```
 PLUGINS="source, qrcode"
 ```
+
+For external plugins, you have to copy each directories of plugins you want to use in your `plugins`.
