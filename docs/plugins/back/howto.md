@@ -1,0 +1,2 @@
+- `addWS`: a `.mjs` file will be imported on Server launch
+- `addRoutes`: a `.mjs` file will be imported on Server launch
