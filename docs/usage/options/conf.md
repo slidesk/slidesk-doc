@@ -16,7 +16,7 @@ slidesk -c .tnt.env my-talk
 
 ## SliDesk configuration
 
-See the proper chapter: [Configuration of SliDesk](/configuration/intro)
+See the proper chapter: [Configuration of SliDesk](/docs/configuration/intro)
 
 ## Plugin usage
 
