@@ -121,7 +121,6 @@ const config = {
           to: "/",
         },
         searchParameters: {},
-        searchPagePath: "search",
       },
     }),
 };
