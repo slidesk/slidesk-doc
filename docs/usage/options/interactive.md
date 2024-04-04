@@ -6,4 +6,4 @@
 
 This option allows to view your presentation from another devices.
 
-These devices can't navigate, only the "local" presentation is authorized.
+If the presentation is used with notes view, these devices can't navigate through the presentation.
