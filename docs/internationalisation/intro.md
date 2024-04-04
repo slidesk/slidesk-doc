@@ -1,6 +1,6 @@
 # Internationalisation
 
-With SliDesk, you can manage multiple languages in your presentation. A list of available languages will appear in the top right-hand corner.
+With SliDesk, you can manage multiple languages in your presentation. Then you can choose your presentation language with the `--lang` option.
 
 To do this, you need to create `XX.lang.json` files.
 
@@ -15,7 +15,8 @@ Example:
 }
 ```
 
-We can see in this JSON that this is the default language, which will generate the index.html file. We also see a "myVar" variable, which will be replaced by "My variable".
-To do this, use the following syntax `$$myVar$$` in the presentation text.
+We can see in this JSON that this is the default language.
 
-Other language files will generate XX.html files with XX the language code used before the ".lang.json".
+We also see a "myVar" variable, which will be replaced by "My variable".
+
+To do this, use the following syntax `$$myVar$$` in the presentation text.
