@@ -116,7 +116,7 @@ const config = {
       algolia: {
         appId: "BMV70NU367",
         apiKey: "279ef4076a0aba112252f879a83c67e1",
-        indexName: "279ef4076a0aba112252f879a83c67e1",
+        indexName: "slideskio",
         contextualSearch: false,
       },
     }),
