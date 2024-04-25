@@ -3,7 +3,7 @@
 You can integrate images in your presentation using the following component:
 
 ```
-!image(path, alternative text, width, height, additional styles)
+!image(path, alternative text, width, height, additional styles, addCaption)
 ```
 
 `width` & `height`are specified in `px`.
@@ -19,15 +19,16 @@ If you want to specify the height, write you component like this:
 Example:
 
 ```
-!image(path/of/your/image, my alternative text, 13, 12, float: left; background-color: #131282)
+!image(path/of/your/image, my alternative text, 13, 12, float: left; background-color: #131282, true)
 ```
 
 will render
 
 ```
-<div class="sd-img" style="float: left; background-color: #131282">
+<figure class="sd-img" style="float: left; background-color: #131282">
   <img src="path/of/your/image" loading="lazy" width="13" height="12" alt="my alternative text" />
-</div>
+  <figcaption>my alternative text</figcaption>
+</figure>
 ```
 
 Using the `.env` file with the "WIDTH" key, images will be resized to be reponsive.
