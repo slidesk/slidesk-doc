@@ -24,6 +24,14 @@ $ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+
+### Gitpod configuration
+
+Nothing to do, just click on the button and your environment is ready to be used 
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/slidesk/slidesk-doc/-/tree/main/)
+
+
 ### Deployment
 
 Using SSH:
