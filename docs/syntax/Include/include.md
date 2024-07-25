@@ -37,3 +37,11 @@ Then you can have a nice `main.sdf` to manage easily your time of your parts.
 
 !include(slides/conclusion.sdf)
 ```
+
+Since `2.7.1`, you can also include a directory
+
+```
+!include(path/of/directory)
+```
+
+It will include all the files in the directory alphabetically.
