@@ -32,3 +32,5 @@ will render
 ```
 
 Using the `.env` file with the "WIDTH" key, images will be resized to be reponsive.
+
+Since version 2.7.3, if the `additional styles` contains no space, the image will have a class with its value instead of writing it in the style attribute.
