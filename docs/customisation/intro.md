@@ -53,3 +53,5 @@ add_styles: files separated with a comma
 add_scripts: files separated with a comma
 ::/
 ```
+
+If you add a `favicon.ico` or `.png`or `.svg` file in the root of your project, it will be added to the final build and replace the default one.
