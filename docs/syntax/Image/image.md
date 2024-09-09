@@ -34,3 +34,5 @@ will render
 Using the `.env` file with the "WIDTH" key, images will be resized to be reponsive.
 
 Since version 2.7.3, if the `additional styles` contains no space, the image will have a class with its value instead of writing it in the style attribute.
+
+Since version 2.7.6, in the `additional styles` you can specify many classes with this following syntax: `!image(path/of/your/image, my alternative text, 13, 12, [class1 class2 class3])` and the image will have these classes.
