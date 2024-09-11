@@ -100,3 +100,7 @@ The passphrase if needed.
 ## WIDTH
 
 This parameter is used for responsive design. If this value is specified, then images are recalculated to fit the ratio with this original width of the presentation.
+
+## TITLE
+
+You can specify a title that will be displayed at the title tag.
