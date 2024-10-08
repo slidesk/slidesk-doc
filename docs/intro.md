@@ -36,7 +36,7 @@ Modular operation is essential. SliDesk must be a lightweight tool, but expandab
 
 The advantage of using Bun is that it can generate a binary executable that does not need any dependencies.
 
-For the sake of efficiency, a simple, minimalist and lightweight syntax, inspired by Markdown and AsciiDoc, exists for writing slides.
+For the sake of efficiency, you'll use Markdown to write your slides.
 
 ## Why a new tool???
 
