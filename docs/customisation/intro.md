@@ -55,3 +55,21 @@ add_scripts: files separated with a comma
 ```
 
 If you add a `favicon.ico` or `.png`or `.svg` file in the root of your project, it will be added to the final build and replace the default one.
+
+## COMMON
+
+It's possible to have a common directory to share a theme, plugins, ... for many presentations
+
+Then in your `.env` file add:
+
+COMMON_DIR=path/to/common
+
+To use it in your presentation, you can use the following syntax:
+
+```
+/::
+custom_css: -=[COMMON]=-/theme/custom.css
+::/
+
+!image(-=[COMMON]=-/assets/logo.png)
+```
