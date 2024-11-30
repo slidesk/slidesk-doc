@@ -25,3 +25,21 @@ console.log('I am focused too');
 console.log('Me too');
 console.log('Me not');
 ```
+
+And you can customize the style with:
+
+```css
+.hljs-focus.focused {
+  border-left: 2px solid #78e08f55;
+  background: #78e08f05;
+  padding: 2px;
+  padding-left: 10px;
+}
+
+.hljs-focus.unfocused {
+  border-left: 2px solid transparent;
+  padding-left: 10px;
+  opacity: 0.5;
+  filter: grayscale(1);
+}
+```
