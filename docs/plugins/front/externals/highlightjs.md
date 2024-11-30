@@ -13,6 +13,7 @@ If you want to use another theme, you can download it from https://highlightjs.o
 
 You can add focus line through the following syntax:
 
+````
 ```js@focus=2-4;8-9
 console.log('Hello World');
 if (true) {
@@ -25,6 +26,7 @@ console.log('I am focused too');
 console.log('Me too');
 console.log('Me not');
 ```
+````
 
 And you can customize the style with:
 
