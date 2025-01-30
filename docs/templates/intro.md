@@ -40,8 +40,77 @@ In this example, the slide will be rendered by:
     <h2>My Slide</h2>
   </div>
   <div class="right">
-    My Content
+    <p>My Content</p>
   </div>
 </div>
 </section>
 ```
+
+You can also use named block to make multi blocks.
+
+Example, this following template:
+
+```html
+<div class="split">
+  <div class="left">
+    <sd-title />
+    <sd-block />
+  </div>
+  <div class="right">
+    <sd-content />
+    <sd-foo />
+  </div>
+</div>
+```
+
+with the sdf content:
+
+```
+
+## Title .[#split]
+
+<div class="speaker">
+
+[[foo]]
+
+Test
+
+[[/foo]]
+
+
+A text
+
+
+[[block]]
+
+- 🧑‍💻 Dev
+- 🏢 Dev'in
+
+[[/block]]
+
+</div>
+```
+
+will render as:
+
+```html
+<section class="sd-slide">
+  <div class="split">
+    <div class="left">
+      <h2>My Slide</h2>
+      <ul>
+        <li>🧑‍💻 Dev</li>
+        <li>🏢 Dev'in</li>
+      </ul>
+    </div>
+    <div class="right">
+      <p>My Content</p>
+      <p>Test</p>
+    </div>
+  </div>
+</section>
+```
+
+:::warning
+A block must be wrapped between 2 empty lines
+:::
