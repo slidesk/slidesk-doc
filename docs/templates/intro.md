@@ -8,7 +8,7 @@ SliDesk has a template system since version 2.11.0. It allows you to create cust
 
 To create a template, you need to create a new folder in the `templates` directory of your SliDesk installation. In this folder, you have to create `.sdt` files.
 
-Example:
+Example: `templates/split.sdt`
 
 ```html
 <div class="split">
@@ -25,6 +25,7 @@ You can see special tags : `sd-title` & `sd-title`. These are placeholders for t
 
 To use this template, you need to specify it in the `class` field of your slide. For example:
 
+ `main.sdf`:
 ```
 ## My Slide .[#split other-classes]
 
