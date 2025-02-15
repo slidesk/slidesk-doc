@@ -26,6 +26,11 @@ export default function HomepageFeatures() {
               Fun-with Slidesk
             </a>
           </div>
+          <div className="col">
+            <a href="https://philippart-s.github.io/blog/code/docker/ide/devcontainers-advanced/" target="_blank" rel="noreferrer">
+              🧑‍💻 Aller plus loin avec les Dev Containers 🐳
+            </a>
+          </div>
         </div>
         <h2>They use it:</h2>
         <div className="row">
@@ -76,11 +81,7 @@ export default function HomepageFeatures() {
                   https://github.com/gouz/talk-babylon
                 </a>
               </li>
-              <li>
-                <a href="https://philippart-s.github.io/blog/code/docker/ide/devcontainers-advanced/" target="_blank" rel="noreferrer">
-                  https://philippart-s.github.io/blog/code/docker/ide/devcontainers-advanced/
-                </a>
-              </li>
+
             </ul>
           </div>
         </div>
