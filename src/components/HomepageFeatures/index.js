@@ -13,7 +13,7 @@ export default function HomepageFeatures() {
           </div>
           <div className="col">
             <a href="https://www.programmez.com/magazine/article/slidesk-votre-compagnon-pour-vos-presentations" target="_blank" rel="noreferrer">
-            SliDesk : votre compagnon pour vos présentations
+              SliDesk : votre compagnon pour vos présentations
             </a>
           </div>
           <div className="col">
@@ -32,42 +32,55 @@ export default function HomepageFeatures() {
           <div className="col">
             <ul>
               <li>
-            <a href="https://github.com/philippart-s/ai-in-few-minutes-slides" target="_blank" rel="noreferrer">
-              https://github.com/philippart-s/ai-in-few-minutes-slides
-            </a>
-            </li><li>
-            <a href="https://github.com/philippart-s/jarvis-slides" target="_blank" rel="noreferrer">
-                https://github.com/philippart-s/jarvis-slides
-            </a>
-            </li><li>
-            <a href="https://gitlab.com/yodamad-workshops/2024/devfest-lille/slides" target="_blank" rel="noreferrer">
-              https://gitlab.com/yodamad-workshops/2024/devfest-lille/slides
-            </a>
-            </li><li>
-            <a href="https://gitlab.com/yodamad-workshops/2024/tadx/slides" target="_blank" rel="noreferrer">
-              https://gitlab.com/yodamad-workshops/2024/devfest-lille/slides
-            </a>
-            </li><li>
-            <a href="https://gitlab.com/yodamad-workshops/2024/devoxx/slides" target="_blank" rel="noreferrer">
-              https://gitlab.com/yodamad-workshops/2024/devoxx/slides
-            </a>
-            </li><li>
-            <a href="https://gitlab.com/yodamad-workshops/2024/devfest-strasbourg/slides" target="_blank" rel="noreferrer">
-              https://gitlab.com/yodamad-workshops/2024/devfest-strasbourg/slides
-            </a>
-            </li><li>
-            <a href="https://gitlab.com/yodamad-workshops/2024/devfest-toulouse/slides" target="_blank" rel="noreferrer">
-              https://gitlab.com/yodamad-workshops/2024/devfest-toulouse/slides
-            </a>
-            </li><li>
-            <a href="https://github.com/gouz/talk-minitel" target="_blank" rel="noreferrer">
-              https://github.com/gouz/talk-minitel
-            </a>
-            </li><li>
-            <a href="https://github.com/gouz/talk-babylon" target="_blank" rel="noreferrer">
-              https://github.com/gouz/talk-babylon
-            </a>
-            </li>
+                <a href="https://github.com/philippart-s/ai-in-few-minutes-slides" target="_blank" rel="noreferrer">
+                  https://github.com/philippart-s/ai-in-few-minutes-slides
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/philippart-s/jarvis-slides" target="_blank" rel="noreferrer">
+                  https://github.com/philippart-s/jarvis-slides
+                </a>
+              </li>
+              <li>
+                <a href="https://gitlab.com/yodamad-workshops/2024/devfest-lille/slides" target="_blank" rel="noreferrer">
+                  https://gitlab.com/yodamad-workshops/2024/devfest-lille/slides
+                </a>
+              </li>
+              <li>
+                <a href="https://gitlab.com/yodamad-workshops/2024/tadx/slides" target="_blank" rel="noreferrer">
+                  https://gitlab.com/yodamad-workshops/2024/devfest-lille/slides
+                </a>
+              </li>
+              <li>
+                <a href="https://gitlab.com/yodamad-workshops/2024/devoxx/slides" target="_blank" rel="noreferrer">
+                  https://gitlab.com/yodamad-workshops/2024/devoxx/slides
+                </a>
+              </li>
+              <li>
+                <a href="https://gitlab.com/yodamad-workshops/2024/devfest-strasbourg/slides" target="_blank" rel="noreferrer">
+                  https://gitlab.com/yodamad-workshops/2024/devfest-strasbourg/slides
+                </a>
+              </li>
+              <li>
+                <a href="https://gitlab.com/yodamad-workshops/2024/devfest-toulouse/slides" target="_blank" rel="noreferrer">
+                  https://gitlab.com/yodamad-workshops/2024/devfest-toulouse/slides
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/gouz/talk-minitel" target="_blank" rel="noreferrer">
+                  https://github.com/gouz/talk-minitel
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/gouz/talk-babylon" target="_blank" rel="noreferrer">
+                  https://github.com/gouz/talk-babylon
+                </a>
+              </li>
+              <li>
+                <a href="https://philippart-s.github.io/blog/code/docker/ide/devcontainers-advanced/" target="_blank" rel="noreferrer">
+                  https://philippart-s.github.io/blog/code/docker/ide/devcontainers-advanced/
+                </a>
+              </li>
             </ul>
           </div>
         </div>
