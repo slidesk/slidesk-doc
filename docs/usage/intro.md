@@ -33,6 +33,7 @@ Options:
   -c, --conf <name>        use a specific .env file (default: "")
   -i, --interactive        allow your audience to see your presentation on another device synchronously (default: false)
   -o, --open <browser>     open a browser with the presentation or notes view (browser is : chrome, edge, firefox, browser, browserPrivate)
+  -x, --terminal           present in a terminal window instead of a browser
   -h, --help               display help for command
 
 Commands:
