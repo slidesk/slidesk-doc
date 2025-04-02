@@ -1,10 +1,17 @@
 # notes
 
 ```sh
-  -n, --notes              open with speakers notes
+-n, --notes [slug]       open with speakers notes
 ```
 
 This option generates the speaker view in addition of your presentation.
+
+Per default, notes view is accessible through /notes.html, but you can change it with the slug argument.
+
+```sh
+slidesk -n hidden-path
+```
+
 
 ![speaker view](./img/notes.png)
 

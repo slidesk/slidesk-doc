@@ -31,6 +31,12 @@ export default function HomepageFeatures() {
               🧑‍💻 Aller plus loin avec les Dev Containers 🐳
             </a>
           </div>
+          <div className="col">
+            <a href="https://youtu.be/J-MSf074GUM?si=MWgv7X870JWhTi1p" target="_blank" rel="noreferrer">
+              Faire ses slides autrement ? Trois outils de présentations alternatifs
+            </a>
+          </div>
+
         </div>
         <h2>They use it:</h2>
         <div className="row">
